@@ -1,0 +1,14 @@
+C:\Users\Nadim Attar\Desktop\First Screen\Codes\GameConsole\GameConsole\bin\Debug\net7.0\GameConsole.exe
+C:\Users\Nadim Attar\Desktop\First Screen\Codes\GameConsole\GameConsole\bin\Debug\net7.0\GameConsole.deps.json
+C:\Users\Nadim Attar\Desktop\First Screen\Codes\GameConsole\GameConsole\bin\Debug\net7.0\GameConsole.runtimeconfig.json
+C:\Users\Nadim Attar\Desktop\First Screen\Codes\GameConsole\GameConsole\bin\Debug\net7.0\GameConsole.dll
+C:\Users\Nadim Attar\Desktop\First Screen\Codes\GameConsole\GameConsole\bin\Debug\net7.0\GameConsole.pdb
+C:\Users\Nadim Attar\Desktop\First Screen\Codes\GameConsole\GameConsole\obj\Debug\net7.0\GameConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nadim Attar\Desktop\First Screen\Codes\GameConsole\GameConsole\obj\Debug\net7.0\GameConsole.AssemblyInfoInputs.cache
+C:\Users\Nadim Attar\Desktop\First Screen\Codes\GameConsole\GameConsole\obj\Debug\net7.0\GameConsole.AssemblyInfo.cs
+C:\Users\Nadim Attar\Desktop\First Screen\Codes\GameConsole\GameConsole\obj\Debug\net7.0\GameConsole.csproj.CoreCompileInputs.cache
+C:\Users\Nadim Attar\Desktop\First Screen\Codes\GameConsole\GameConsole\obj\Debug\net7.0\GameConsole.dll
+C:\Users\Nadim Attar\Desktop\First Screen\Codes\GameConsole\GameConsole\obj\Debug\net7.0\refint\GameConsole.dll
+C:\Users\Nadim Attar\Desktop\First Screen\Codes\GameConsole\GameConsole\obj\Debug\net7.0\GameConsole.pdb
+C:\Users\Nadim Attar\Desktop\First Screen\Codes\GameConsole\GameConsole\obj\Debug\net7.0\GameConsole.genruntimeconfig.cache
+C:\Users\Nadim Attar\Desktop\First Screen\Codes\GameConsole\GameConsole\obj\Debug\net7.0\ref\GameConsole.dll

@@ -1,0 +1,14 @@
+C:\Users\Nadim Attar\Desktop\First Screen\Codes\MainBoard\MainBoard\bin\Debug\net7.0\MainBoard.exe
+C:\Users\Nadim Attar\Desktop\First Screen\Codes\MainBoard\MainBoard\bin\Debug\net7.0\MainBoard.deps.json
+C:\Users\Nadim Attar\Desktop\First Screen\Codes\MainBoard\MainBoard\bin\Debug\net7.0\MainBoard.runtimeconfig.json
+C:\Users\Nadim Attar\Desktop\First Screen\Codes\MainBoard\MainBoard\bin\Debug\net7.0\MainBoard.dll
+C:\Users\Nadim Attar\Desktop\First Screen\Codes\MainBoard\MainBoard\bin\Debug\net7.0\MainBoard.pdb
+C:\Users\Nadim Attar\Desktop\First Screen\Codes\MainBoard\MainBoard\obj\Debug\net7.0\MainBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nadim Attar\Desktop\First Screen\Codes\MainBoard\MainBoard\obj\Debug\net7.0\MainBoard.AssemblyInfoInputs.cache
+C:\Users\Nadim Attar\Desktop\First Screen\Codes\MainBoard\MainBoard\obj\Debug\net7.0\MainBoard.AssemblyInfo.cs
+C:\Users\Nadim Attar\Desktop\First Screen\Codes\MainBoard\MainBoard\obj\Debug\net7.0\MainBoard.csproj.CoreCompileInputs.cache
+C:\Users\Nadim Attar\Desktop\First Screen\Codes\MainBoard\MainBoard\obj\Debug\net7.0\MainBoard.dll
+C:\Users\Nadim Attar\Desktop\First Screen\Codes\MainBoard\MainBoard\obj\Debug\net7.0\refint\MainBoard.dll
+C:\Users\Nadim Attar\Desktop\First Screen\Codes\MainBoard\MainBoard\obj\Debug\net7.0\MainBoard.pdb
+C:\Users\Nadim Attar\Desktop\First Screen\Codes\MainBoard\MainBoard\obj\Debug\net7.0\MainBoard.genruntimeconfig.cache
+C:\Users\Nadim Attar\Desktop\First Screen\Codes\MainBoard\MainBoard\obj\Debug\net7.0\ref\MainBoard.dll
